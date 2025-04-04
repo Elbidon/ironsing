@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>OBTAINABLE ATTUNEMENTS</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>OBTAINABLE ATTUNEMENTS</h1>
+        </header>
+        <nav>
+            <a class="nav-link" href="">IRONSING INFO</a>
+            <a class="nav-link" href="">SHADOWCAST INFO</a>
+            <a class="nav-link" href="">BLOODREND INFO</a>
+        </nav>
+        <main>
+            <h1 class="tlt">IRONSING PAGE</h1>
+            <div>
+       <p>The Attunement Trainer, Adar, can be found inside a tower on the left side of the end of the bridge at Miner's Landing, on the path to the Starfield Veldt. This bridge always spawns two Brainsuckers. To unlock Ironsing, you must first have a Pluripotent Alloy. Then, talk to the blacksmith at Miner's Landing. He will say that a friend of his is looking for a Pluripotent Alloy. If you have obtained Ironsing before, obtaining a Pluripotent Alloy and talking to the blacksmith is not required. Go to the trainer and he will tell you that he is looking for 6 ores.
+       The ores you need are:</p>
+        <p> <ul type="disk"> <li>Iron</li> <li>Gold</li> <li>Erisore</li> <li> Irithine </li> <li> Astruline </li> <li>Umbrite</li> </ul></p>
+        <p> After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.</p>
+        </div>
+        <div>
+            <h1 class="trainer"> IRONSING TRAINER</h1>
+            <h1 class="nowilshowyouthekaikoken"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDe2t1yH5zDKIdnsvqYYKpGBW509pgvyMFjg&s"/> </h1>
+        </div>
+        </main>
+        <footer>
+            <img src="https://static.wikia.nocookie.net/6a8a753d-275a-460b-bf7c-2772291b8913/scale-to-width/755" class="deepiscalling"/>
+        </footer>
+    </body>
+</html>
